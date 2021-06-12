@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @madhunedunuri47
-- 👀 I’m interested in developing new innovative applications which can solve realistic problems
+- 👋 Hi, I’m Madhu Nedunuri
+- 👀 I’m interested in developing new innovative applications which can solve real time problems
 - 🌱 I’m currently learning Data Science 
 - 💞️ I’m looking to collaborate with new startups
 - 📫 contact me : 9000196843, nedunurimadhu10011999@gmail.com
